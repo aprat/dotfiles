@@ -1,5 +1,13 @@
 # Set up new Mac
 
+### Security
+Add vpn - https://airvpn.org/enter/
+Download TOR browser - https://www.torproject.org/projects/torbrowser.html.en
+
+### Utils
+Backblaze Backup
+Tuxera NTFS
+
 ### Terminal
 ohmyzsh - https://github.com/robbyrussell/oh-my-zsh
 
